@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mau nyoba konflik
+=======
+test2 from abud
+>>>>>>> 0f35a26fe68480bf6715b9894c57ef5329074133
